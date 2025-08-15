@@ -90,7 +90,7 @@ function App() {
             {/* Doctor's Photo */}
                 <div className="w-40 h-40 mx-auto rounded-full overflow-hidden border-4 border-purple-400 shadow-2xl transform hover:scale-110 transition-transform duration-300">
                     <img
-                    src="/doctor-image.jpg" // <-- put your image in public/images folder
+                    src="/doctor.jpg" // <-- put your image in public/images folder
                     alt="Dr. Sachin D. Deore"
                     className="w-full h-full object-cover"
                     />
