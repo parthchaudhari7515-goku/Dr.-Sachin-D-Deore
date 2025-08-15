@@ -278,14 +278,14 @@ function App() {
                   loading="lazy"
                 />
               </div>
-              <div className="mt-4 text-center">
+              {/* <div className="mt-4 text-center">
                 <button
                   onClick={() => setShowQRModal(true)}
                   className="text-blue-300 hover:text-white text-sm underline transition-colors duration-300"
                 >
                   Download in different sizes
                 </button>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
