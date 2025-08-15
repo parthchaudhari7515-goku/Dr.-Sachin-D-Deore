@@ -236,7 +236,7 @@ function App() {
                   <h2 className="text-3xl font-bold text-white">Professional Profile</h2>
                 </div>
                 
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+                {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                   <div className="bg-gradient-to-r from-blue-500/20 to-cyan-500/20 p-6 rounded-2xl border border-blue-300/30">
                     <div className="text-3xl font-bold text-blue-200 mb-2">15+</div>
                     <div className="text-white">Years Experience</div>
@@ -249,7 +249,7 @@ function App() {
                     <div className="text-3xl font-bold text-purple-200 mb-2">100%</div>
                     <div className="text-white">Satisfaction Rate</div>
                   </div>
-                </div>
+                </div> */}
                 
                 <p className="text-xl text-blue-100 leading-relaxed">
                   Dedicated Ayurvedic physician and surgeon with extensive training in traditional Indian medicine, 
