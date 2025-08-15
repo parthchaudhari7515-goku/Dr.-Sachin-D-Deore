@@ -211,7 +211,7 @@ function App() {
                       className="text-white hover:text-pink-200 transition-colors duration-300 flex items-center space-x-2 group"
                     >
                       <Mail className="w-5 h-5 group-hover:scale-110 transition-transform duration-300" />
-                      <span className="break-all">morayahospital@2025gmail.com</span>
+                      <span className="break-all">sachindeore1997@gmai.com</span>
                     </a>
                   </div>
                   
