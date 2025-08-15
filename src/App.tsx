@@ -138,10 +138,10 @@ function App() {
                 
                 <div className="space-y-4">
                   <div className="bg-gradient-to-r from-blue-500/20 to-cyan-500/20 p-4 rounded-2xl border border-blue-300/30">
-                    <h3 className="font-bold text-blue-200 mb-2 flex items-center">
+                    {/* <h3 className="font-bold text-blue-200 mb-2 flex items-center">
                       <div className="w-2 h-2 bg-blue-400 rounded-full mr-2 animate-pulse"></div>
                       Primary Degree
-                    </h3>
+                    </h3> */}
                     <p className="text-white text-lg">B.A.M.S. (Bangalore)</p>
                   </div>
                   
