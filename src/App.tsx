@@ -95,7 +95,7 @@ function App() {
               <Sparkles className="w-5 h-5 text-yellow-400 animate-pulse" />
             </div>
             
-            <div className="flex justify-center">
+            {/* <div className="flex justify-center">
               <button
                 onClick={() => setShowQRModal(true)}
                 className="group bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white px-8 py-4 rounded-full flex items-center space-x-3 transition-all duration-300 transform hover:scale-105 shadow-2xl"
@@ -103,7 +103,7 @@ function App() {
                 <QrCode className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300" />
                 <span className="text-lg font-semibold">Get QR Code</span>
               </button>
-            </div>
+            </div> */}
           </div>
 
           {/* Animated Cards Section */}
@@ -327,7 +327,7 @@ function App() {
                 <p className="text-blue-200">Scan to visit this page</p>
               </div>
 
-              <div className="space-y-3">
+              {/* <div className="space-y-3">
                 <h4 className="font-bold text-white mb-4 flex items-center">
                   <Download className="w-5 h-5 mr-2 text-green-400" />
                   Download Different Sizes:
@@ -343,7 +343,7 @@ function App() {
                     <span className="font-semibold">{qrSize.label}</span>
                   </button>
                 ))}
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
